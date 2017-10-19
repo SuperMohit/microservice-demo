@@ -1,0 +1,7 @@
+applications:
+- name: movie-search-engine
+  path: target/movie-engine.jar
+  domain: cfapps.io
+  memory: 1024M
+  instances: 1
+   
